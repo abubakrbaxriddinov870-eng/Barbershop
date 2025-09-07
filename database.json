@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Bahriddinov Abubakr",
+    "phone": "90 640 79 72"
+  },
+  {
+    "id": 2,
+    "name": "Bahriddinov muhammad ali",
+    "phone": "99 4.5 12 34"
+  },
+  {
+    "id": 3,
+    "name": "bahriddinova Muslima",
+    "phone": "99 455 12 34"
+  },
+  {
+    "id": 4,
+    "name": "abubakr",
+    "phone": "99 123 45 67"
+  },
+  {
+    "id": 5,
+    "name": "abubakr",
+    "phone": "99 123 45 67"
+  },
+  {
+    "id": 1,
+    "name": "abubakr",
+    "phone": "99 123 45 67"
+  },
+  {
+    "id": 1,
+    "name": "Abubakr Bahriddinov",
+    "phone": "99 123 45 67",
+    "service": "Soch hamda Soqol",
+    "date": "2025-09-07",
+    "remind_after": 10
+  },
+  {
+    "id": 1,
+    "name": "Abubakr Bahriddinov",
+    "phone": "99 123 45 67",
+    "service": "Soch hamda Soqol",
+    "date": "2025-08-07",
+    "remind_after": 10
+  },
+  {
+    "id": 1,
+    "name": "Abubakr Bahriddinov",
+    "phone": "99 123 45 67",
+    "service": "Soch hamda Soqol",
+    "date": "2025-08-07",
+    "remind_after": 10
+  }
+]
